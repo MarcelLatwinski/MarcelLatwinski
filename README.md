@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- :books: I'm currently studying at Durham Univeristy (Masters in Physics :atom_symbol:)
+  
+- 🔭 I’m currently working on a personal website :globe_with_meridians:, however soon I want to switch to a Linux OS and learn how to deal with it :penguin:
+  
+- :sparkles: I have many hobbies, including Music Production :musical_note: | Graphic Design :art: | Sport 🏐 | Arduino / Engineering :robot:
+  
+- :earth_americas: I’m currently learning japanese :jp: , and german :de:.
+  
+
 <!--
 **MarcelLatwinski/MarcelLatwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
